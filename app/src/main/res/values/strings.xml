@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz5</string>
+    <string name="form_fill_cv">Isi Form CV dulu, yuk!</string>
+    <string name="form_fill_description">Untuk bisa memulai pencarian pasangan, Antum harus mengisi form CV antum terlebih dahulu</string>
+    <string name="pass_btn">Lewati</string>
+    <string name="fill_btn">Isi CV</string>
+    <string name="search">Pencarian</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="quiz_5">Quiz 5</string>
+    <string name="loading">Loading</string>
+    <string name="search_campus">Pencarian Universitas</string>
+    <string name="detail_title">Universitas berikut adalah data yang telah disesuaikan dengan preferensimu</string>
+    <string name="filter">Filter</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="retry">Retry</string>
+    <string name="expanded">Expanded</string>
+</resources>
